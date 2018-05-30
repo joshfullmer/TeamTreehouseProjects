@@ -1,7 +1,7 @@
 # Team Treehouse Projects
 
 - [Build a Soccer Team][1]
-  - Uses: *Python*, _CSV_
+  - Uses: _Python_, _CSV_
   - Reads a CSV of soccer players, evenly splits them to different teams, and generates letters to their parents.
 - [Secret Messages][2]
   - Uses: _Python_, _Regex_, _Algorithms_
@@ -25,10 +25,21 @@
   - Uses: _Python_, _Django_, _Pillow_, _TinyMCE_
   - Allows a user to login, create and edit their profile, upload an avatar and modify the uploaded image.
 - [Mineral Catalog with Filtering][8]
+  - Uses: _Python_, _Django_, _json_
+  - Adds filtering and searching to the preview [Mineral Catalog][6] project.
 - [Django Project Improvement][9]
+  - Uses: _Python_, _Django_
+  - Refine an existing Django project.  Add template inheritance, refine the database calls, add additional features.
 - [Flask To-do API][10]
+  - Uses: _Python_, _Flask_, _Angular_, _peewee_, _REST_, _Token Auth_
+  - A user can manage a list of todos.  These todos are served by an Angular web app that communicates to a Flask REST API.
 - [Pug or Ugh (Django API)][11]
+  - Uses: _Python_, _Django_, _React_, _REST_
+  - A tinder-like app where users can like and dislike dogs.  Uses React to serve the data to the user, and Ajax to get the data from the Django REST API.  
 - [Social Team Builder][12]
+  - Uses: _Python_, _Django_, _Pillow_
+  - A full-featured Django app where users can post programming projects, apply for positions on those projects, get notified if they're accepted or not, and run their own project.
+  - Some features include: multiple formsets on a single form, user avatar, notifications, email verification, multiple filtering views.
 
 [1]: https://github.com/joshfullmer/build_a_soccer_team
 [2]: https://github.com/joshfullmer/secret_messages
