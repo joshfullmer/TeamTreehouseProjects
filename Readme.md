@@ -1,7 +1,7 @@
 # Team Treehouse Projects
 
 - [Build a Soccer Team][1]
-  - Uses: _Python_, _CSV_
+  - Uses: *Python*, _CSV_
   - Reads a CSV of soccer players, evenly splits them to different teams, and generates letters to their parents.
 - [Secret Messages][2]
   - Uses: _Python_, _Regex_, _Algorithms_
