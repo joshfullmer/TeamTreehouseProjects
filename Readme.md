@@ -3,7 +3,7 @@
 1. [Build a Soccer Team][1]
   - Uses: _Python_, _CSV_
   - Reads a CSV of soccer players, evenly splits them to different teams, and generates letters to their parents.
-1. [Secret Messages][2]
+2. [Secret Messages][2]
   - Uses: _Python_, _Regex_, _Algorithms_
   - Takes user input and decodes or encodes the user input, using several different algorithms and a few historical ciphers.
 1. [Work Log][3]
