@@ -1,6 +1,17 @@
 # Team Treehouse Projects
 
 - [Build a Soccer Team][1]
+- [Secret Messages][2]
+- [Work Log][3]
+- [Work Log with a Database][4]
+- [Personal Learning Journal][5]
+- [Mineral Catalog][6]
+- [User Profile][7]
+- [Mineral Catalog with Filtering][8]
+- [Django Project Improvement][9]
+- [Flask To-do API][10]
+- [Pug or Ugh (Django API)][11]
+- [Social Team Builder][12]
 
 [1]: https://github.com/joshfullmer/build_a_soccer_team
 [2]: https://github.com/joshfullmer/secret_messages
